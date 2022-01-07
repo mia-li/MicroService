@@ -1,0 +1,16 @@
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Service.deps.json
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Service.dll
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Service.pdb
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Interface.dll
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Model.dll
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Interface.pdb
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Model.pdb
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.csprojAssemblyReference.cache
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.AssemblyInfoInputs.cache
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.AssemblyInfo.cs
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.csproj.CoreCompileInputs.cache
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.csproj.CopyComplete
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.dll
+E:\工作准备\c#练习\MicroService\MicroService.Service\obj\Debug\netcoreapp3.1\MicroService.Service.pdb
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Data.dll
+E:\工作准备\c#练习\MicroService\MicroService.Service\bin\Debug\netcoreapp3.1\MicroService.Data.pdb

@@ -1,0 +1,8 @@
+E:\工作准备\c#练习\MicroService\MicroService.Model\bin\Debug\netcoreapp3.1\MicroService.Model.deps.json
+E:\工作准备\c#练习\MicroService\MicroService.Model\bin\Debug\netcoreapp3.1\MicroService.Model.dll
+E:\工作准备\c#练习\MicroService\MicroService.Model\bin\Debug\netcoreapp3.1\MicroService.Model.pdb
+E:\工作准备\c#练习\MicroService\MicroService.Model\obj\Debug\netcoreapp3.1\MicroService.Model.AssemblyInfoInputs.cache
+E:\工作准备\c#练习\MicroService\MicroService.Model\obj\Debug\netcoreapp3.1\MicroService.Model.AssemblyInfo.cs
+E:\工作准备\c#练习\MicroService\MicroService.Model\obj\Debug\netcoreapp3.1\MicroService.Model.csproj.CoreCompileInputs.cache
+E:\工作准备\c#练习\MicroService\MicroService.Model\obj\Debug\netcoreapp3.1\MicroService.Model.dll
+E:\工作准备\c#练习\MicroService\MicroService.Model\obj\Debug\netcoreapp3.1\MicroService.Model.pdb
