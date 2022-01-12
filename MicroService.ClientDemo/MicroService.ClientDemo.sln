@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Service", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Data", "..\MicroService.Data\MicroService.Data.csproj", "{4242983C-C6A7-475B-92F6-BB499201FCF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.ServiceInstance", "..\MicroService.ServiceInstance\MicroService.ServiceInstance.csproj", "{8B4EA23E-F2EA-473E-B77C-99991CDD68AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.GatewayDemo", "..\MicroService.GatewayDemo\MicroService.GatewayDemo.csproj", "{EDB04BF6-FA47-4A69-B275-0AAE25B81809}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{4242983C-C6A7-475B-92F6-BB499201FCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4242983C-C6A7-475B-92F6-BB499201FCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4242983C-C6A7-475B-92F6-BB499201FCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4EA23E-F2EA-473E-B77C-99991CDD68AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4EA23E-F2EA-473E-B77C-99991CDD68AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4EA23E-F2EA-473E-B77C-99991CDD68AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4EA23E-F2EA-473E-B77C-99991CDD68AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB04BF6-FA47-4A69-B275-0AAE25B81809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB04BF6-FA47-4A69-B275-0AAE25B81809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB04BF6-FA47-4A69-B275-0AAE25B81809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB04BF6-FA47-4A69-B275-0AAE25B81809}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
